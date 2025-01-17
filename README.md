@@ -17,6 +17,8 @@ Este portfólio foi o meu primeiro grande projeto, no qual desenvolvi diversas v
 * JavaScript
 * Bootstrap
 
+## Pré-visualização
+
 ![Capa do Projeto](./app/assets/images/capa.jpg)
 ![Sobre im](./app/assets/images/about.jpg)
 ![Tecnologias](./app/assets/images/skills.jpg)
