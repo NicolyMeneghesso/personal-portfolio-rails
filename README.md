@@ -16,6 +16,7 @@ Este portfólio foi o meu primeiro grande projeto, no qual desenvolvi diversas v
 * CSS3
 * JavaScript
 * Bootstrap
+* Sqlite
 
 ## Pré-visualização
 
