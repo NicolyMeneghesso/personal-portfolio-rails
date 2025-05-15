@@ -21,7 +21,7 @@ Este portfólio foi o meu primeiro grande projeto, no qual desenvolvi diversas v
 ## Pré-visualização
 
 ![Capa do Projeto](./app/assets/images/capa.jpg)
-![Sobre im](./app/assets/images/about.jpg)
+![Sobre mim](./app/assets/images/about.jpg)
 ![Tecnologias](./app/assets/images/skills.jpg)
 ![Projetos](./app/assets/images/projects.jpg)
 ![Modal](./app/assets/images/modal.jpg)
